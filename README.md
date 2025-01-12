@@ -1,59 +1,64 @@
 <!-- Replace 'mstf0ta-app' with your actual GitHub username if different -->
-# Hello, I'm Mustafa Talib! 👋
+<h1 align="center">Hey there, I'm Mustafa Talib! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mstf0ta/)
-
-## 👨‍💻 About Me 
-
-I am an **experienced Full-Stack Developer** with strong expertise in **Web & Mobile Application Development**, spanning front-end, back-end, and deployment. My primary skills and interests include:
-
-- **Node.js / Express.js**
-- **React / React Native**
-- **Laravel / PHP**
-- **ECMAScript (ES6+)**
-- **Graphic & Web Design**
-- **Networking**
-
- Over the years, I have specialized in building:
-
-- **E-commerce solutions**  
-- **Streaming applications**  
-
-Leveraging modern tools and best practices, I strive to deliver **robust, scalable, and user-focused applications**.
-
-## Technical Proficiencies
-- **Languages**: JavaScript (ES6+), PHP, and more  
-- **Frameworks/Libraries**: React, React Native, Node.js, Laravel  
-- **Databases**: MongoDB, MySQL, PostgreSQL  
-- **DevOps & Cloud**: GitHub Actions, AWS, Firebase
-
-<!-- Example badges (feel free to update to match your skills) -->
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![ECMAScript](https://img.shields.io/badge/-ECMAScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
-
-## Experience & Education
-- **Professional Experience**:  
-  - Developed and maintained web and mobile applications for diverse industries.  
-  - Oversaw full product lifecycles, including design, development, testing, and deployment.  
-  - Applied expertise in **graphic design** and **networking** to enhance system performance and user engagement.
-
-- **Education**:
-  - **Master of Engineering (M.Eng.)** – Computer Engineering  (Artificial Intelligence)
-  - **Bachelor of Engineering (B.E.)** – Computer Engineering Technology (Technician)
-
-
-
-## Current Focus
-- **E-Commerce Platforms**: Building and optimizing online storefronts for a seamless user experience.  
-- **Streaming Applications**: Integrating real-time data and efficient media delivery.  
-- **Cross-Platform Mobile Apps**: Creating versatile solutions using React Native.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mstf0ta/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
 ---
 
-## GitHub Overview
+## 👨‍💻 About Me
+I’m an **experienced Full-Stack Developer** with a special focus on **Web & Mobile Application Development**, spanning front-end, back-end, and deployment.
+
+### Specialties:
+- **E-commerce solutions**  
+- **Streaming applications**  
+- **Cross-platform mobile apps**
+
+I take pride in delivering **robust, scalable, and user-focused** digital products, leveraging modern tools and best practices.
+
+---
+
+## ⚙️ Languages & Tools
+<p>
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
+  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+  <img align="left" alt="React Native" width="26px" src="https://avatars.githubusercontent.com/u/36225039?s=200&v=4" />
+  <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
+  <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />
+  <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" />
+  <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
+  <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
+  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+  <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
+</p>
+<br />
+<br />
+
+---
+
+## 💼 Experience & Education
+- **Master of Engineering (M.Eng.)** – Computer Engineering (Artificial Intelligence)  
+- **Bachelor of Engineering (B.E.)** – Computer Engineering Technology (Technician)  
+
+**Professional Highlights**:  
+- Developed and maintained web/mobile apps across diverse industries.  
+- Led full product lifecycles: design, development, testing, and deployment.  
+- Applied expertise in **graphic design** & **networking** to enhance performance and user engagement.
+
+---
+
+## 🔭 Current Focus
+- **E-Commerce Platforms**: Creating seamless online shopping experiences.  
+- **Streaming Solutions**: Integrating real-time data and efficient media delivery.  
+- **Mobile Development**: Crafting cross-platform solutions using **React Native** and **Swift**.
+
+---
+
 
 <p align="center">
   <img
@@ -63,9 +68,10 @@ Leveraging modern tools and best practices, I strive to deliver **robust, scalab
 </p>
 
 
+
 ---
 
-## Get in Touch
-- **Email**: [mstf0freelance@gmail.com](mailto:mstf0freelance@gmail.com)
+## 🤝 Get in Touch
+- **Email**: [mstf0freelance@gmail.com](mailto:mstf0freelance@gmail.com)  
 - **LinkedIn**: [Mustafa Talib](https://www.linkedin.com/in/mstf0ta/)
 
