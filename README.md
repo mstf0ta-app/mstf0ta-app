@@ -55,7 +55,6 @@ Leveraging modern tools and best practices, I strive to deliver **robust, scalab
 
 ## GitHub Overview
 
-### 1) General Stats
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=mstf0ta-app&show_icons=true&theme=radical"
@@ -63,31 +62,6 @@ Leveraging modern tools and best practices, I strive to deliver **robust, scalab
   />
 </p>
 
-### 2) Top Languages
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstf0ta-app&layout=compact&theme=radical&langs_count=10"
-    alt="Mustafa's Most Used Languages"
-  />
-</p>
-
-### 3) GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=mstf0ta-app&theme=radical&margin-w=15&margin-h=15" 
-      alt="Mustafa's GitHub Trophies"
-    />
-  </a>
-</p>
-
-### 4) Profile Visitors
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=mstf0ta-app&color=brightgreen"
-    alt="Profile Visitors"
-  />
-</p>
 
 ---
 
@@ -95,8 +69,3 @@ Leveraging modern tools and best practices, I strive to deliver **robust, scalab
 - **Email**: [mstf0freelance@gmail.com](mailto:mstf0freelance@gmail.com)
 - **LinkedIn**: [Mustafa Talib](https://www.linkedin.com/in/mstf0ta/)
 
-> **“Committed to delivering robust, user-centric solutions across web and mobile platforms.”**
-
-<p align="center">
-  Made with ❤️ by <strong>Mustafa Talib</strong>
-</p>
