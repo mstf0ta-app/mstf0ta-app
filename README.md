@@ -21,10 +21,10 @@ I take pride in delivering **robust, scalable, and user-focused** digital produc
 
 ---
 
-## ⚙️ Languages & Tools
+##  Languages & Tools
 <p>
   <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-  <img align="left" alt="React Native" width="26px" src="https://avatars.githubusercontent.com/u/36225039?s=200&v=4" />
+  <img align="left" alt="React Native" width="26px" src="https://reactnative.dev/img/header_logo.svg" />
   <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
   <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
   <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />
