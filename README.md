@@ -23,10 +23,9 @@ I take pride in delivering **robust, scalable, and user-focused** digital produc
 
 ## ⚙️ Languages & Tools
 <p>
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
-  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
   <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
   <img align="left" alt="React Native" width="26px" src="https://avatars.githubusercontent.com/u/36225039?s=200&v=4" />
+  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
   <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
   <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />
   <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" />
@@ -34,6 +33,7 @@ I take pride in delivering **robust, scalable, and user-focused** digital produc
   <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
   <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
   <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
   <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
 </p>
 <br />
