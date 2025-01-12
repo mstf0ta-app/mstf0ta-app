@@ -1,16 +1,102 @@
-## Hi there 👋
+<!-- Replace 'mstf0ta-app' with your actual GitHub username if different -->
+# Hello, I'm Mustafa Talib! 👋
 
-<!--
-**mstf0ta-app/mstf0ta-app** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mstf0ta/)
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an **experienced Full-Stack Developer** with strong expertise in **Web & Mobile Application Development**, spanning front-end, back-end, and deployment. My primary skills and interests include:
+
+- **Node.js / Express.js**
+- **React / React Native**
+- **Laravel / PHP**
+- **ECMAScript (ES6+)**
+- **Graphic & Web Design**
+- **Networking**
+
+ Over the years, I have specialized in building:
+
+- **E-commerce solutions**  
+- **Streaming applications**  
+
+Leveraging modern tools and best practices, I strive to deliver **robust, scalable, and user-focused applications**.
+
+## Technical Proficiencies
+- **Languages**: JavaScript (ES6+), PHP, and more  
+- **Frameworks/Libraries**: React, React Native, Node.js, Laravel  
+- **Databases**: MongoDB, MySQL, PostgreSQL  
+- **DevOps & Cloud**: GitHub Actions, AWS, Firebase
+
+<!-- Example badges (feel free to update to match your skills) -->
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![ECMAScript](https://img.shields.io/badge/-ECMAScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
+
+## Experience & Education
+- **Professional Experience**:  
+  - Developed and maintained web and mobile applications for diverse industries.  
+  - Oversaw full product lifecycles, including design, development, testing, and deployment.  
+  - Applied expertise in **graphic design** and **networking** to enhance system performance and user engagement.
+
+- **Education**:
+  - **Master of Engineering (M.Eng.)** – Computer Engineering  (Artificial Intelligence)
+  - **Bachelor of Engineering (B.E.)** – Computer Engineering Technology (Technician)
+
+
+
+## Current Focus
+- **E-Commerce Platforms**: Building and optimizing online storefronts for a seamless user experience.  
+- **Streaming Applications**: Integrating real-time data and efficient media delivery.  
+- **Cross-Platform Mobile Apps**: Creating versatile solutions using React Native.
+
+---
+
+## GitHub Overview
+
+### 1) General Stats
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mstf0ta-app&show_icons=true&theme=radical"
+    alt="Mustafa's GitHub Stats"
+  />
+</p>
+
+### 2) Top Languages
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstf0ta-app&layout=compact&theme=radical&langs_count=10"
+    alt="Mustafa's Most Used Languages"
+  />
+</p>
+
+### 3) GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=mstf0ta-app&theme=radical&margin-w=15&margin-h=15" 
+      alt="Mustafa's GitHub Trophies"
+    />
+  </a>
+</p>
+
+### 4) Profile Visitors
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=mstf0ta-app&color=brightgreen"
+    alt="Profile Visitors"
+  />
+</p>
+
+---
+
+## Get in Touch
+- **Email**: [mstf0freelance@gmail.com](mailto:mstf0freelance@gmail.com)
+- **LinkedIn**: [Mustafa Talib](https://www.linkedin.com/in/mstf0ta/)
+
+> **“Committed to delivering robust, user-centric solutions across web and mobile platforms.”**
+
+<p align="center">
+  Made with ❤️ by <strong>Mustafa Talib</strong>
+</p>
